@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Sliding Window
 |  |
 | ------- |
