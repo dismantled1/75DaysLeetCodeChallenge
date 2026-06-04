@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -151,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
