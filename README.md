@@ -335,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/dismantled1/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
